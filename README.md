@@ -15,7 +15,6 @@ This is a basic shopping cart application that fetches product details from [Fak
 - **Product Fetching:** Retrieves a list of products from FakeStoreAPI.
 - **Product Categorization:** Categorizes products based on categories like electronics, clothing, etc.
 - **Product Details:** Displays detailed information about each product, including price, description, and category.
-- **Responsive Design:** Ensures a seamless experience across various devices.
 
 ## Technologies Used
 
